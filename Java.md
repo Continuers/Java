@@ -22,8 +22,8 @@ return;
 
 ![image-20210711003534379](D:\Typora\picture\image-20210711003534379.png)
 
-![](https://github.com/Continuers/Java/blob/main/img/image-20210711003534379.png)
 
+![](https://github.com/Continuers/Java/blob/main/picture/1.png)
 
 
 # 2.配置环境变量
